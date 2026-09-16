@@ -19,7 +19,7 @@
 - 💻 Backend developer working with Python, Django and Django REST Framework
 - 🔭 Building backend and data analytics projects
 - 🌱 Learning DSA, DBMS, Operating Systems, SQL and Power BI
-- 🧩 Solved 450+ problems on LeetCode
+- 🧩 Solved 500+ problems on LeetCode
 - 🚀 Interested in Backend Development and Data Analytics
 
 ---
